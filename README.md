@@ -1,6 +1,6 @@
 # FacturacionAPI
 
-sistema de de facturación basico
+sistema de de facturación basico, manejo de arquitectura DDD, Principios SOLID.
 ## Requisitos Previos
 
 - .NET 6.0 o superior
